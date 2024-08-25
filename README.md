@@ -2,11 +2,11 @@
 
 ## 01001000 01101001 00101100 00100000 01001001 00100111 01101101 00100000 01001101 01110101 01100010 01100101 01100101 01101110 👋 👨‍💻 *
 
-Motivated & interested in exploring and learning new techs, currently an Undergraduate student.
+Motivated & interested in exploring and learning new techs.
 
 ### 🌐 Find me around the web:
 
-<a href="//mubeendev.me">![mubeendev.me](https://img.shields.io/badge/Mubeendev.me-138D75?style=for-the-badge&logo=aboutdotme&logoColor=white)</a>
+<a href="https://mubeen.dev">![mubeendev.me](https://img.shields.io/badge/Mubeen.dev-138D75?style=for-the-badge&logo=aboutdotme&logoColor=white)</a>
 <a href="https://medium.com/@mubeenmurj">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://dev.to/mubeenmurj">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
